@@ -1,4 +1,5 @@
-# Aplicație practică – Sistem de semaforizare automată
+# Aplicație practică – CONTROLUL SEMAFORIZĂRII A DOUĂ INTERSECȚII FOLOSIND AUTOMATE PROGRAMABILE SIEMENS
+
 
 ## Repository Git
 
