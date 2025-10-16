@@ -1,10 +1,28 @@
+# Practical Application – Traffic Light Control of Two Intersections Using Siemens Programmable Logic Controllers
+
 # Aplicație practică – CONTROLUL SEMAFORIZĂRII A DOUĂ INTERSECȚII FOLOSIND AUTOMATE PROGRAMABILE SIEMENS
+
+
 
 
 ## Repository Git
 
-Adresa repository-ului:  
+Adress of repository:  
 🔗 https://github.com/Nikola5633/aplicatie-practica-licenta
+
+---
+
+## Installation, Opening, and Compilation Steps
+
+1. Download the Project1.rar file from the repository and extract its contents.
+2. Open TIA Portal V15.1 (recommended version: V15.1).
+3. Select "Open existing project", navigate to the extracted folder, and open the Proiect1.ap15_1 file.
+4. In the next window, click "Open the project view" at the bottom.
+5. In the left panel, select PLC_1 [CPU 1511F-1 PN], then go to Program blocks > Main [OB1].
+6. Click on Main [OB1], then press "Start simulation" from the top toolbar.
+7. In the simulation window, click "Load", change the Start modules field from No action to Start module, then click "Finish".
+8. Select HMI_1 [TP700 Comfort] and press "Start simulation" again from the top toolbar.
+9. In the HMI interface, press the Start button — the program will begin running, and the automated traffic light control can be observed in the simulation.
 
 ---
 
